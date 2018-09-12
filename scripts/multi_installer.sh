@@ -153,4 +153,4 @@ _set_wd
 _build_turtlecoin
 
 _note "Installation complete!"
-_note "Look in 'turtlecoin/build/src/' for the executible binaries. See 'https://github.com/turtlecoin/turtlecoin' for more project support. Cowabunga!"
+_note "Look in 'turtlecoin/build/src/' for the executable binaries. See 'https://github.com/turtlecoin/turtlecoin' for more project support. Cowabunga!"
